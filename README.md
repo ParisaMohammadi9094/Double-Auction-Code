@@ -8,14 +8,14 @@ Sellers (Producers): Each seller submits a bid indicating the price at which the
 Buyers (Loads): Each buyer submits a bid indicating the price they are willing to pay for a certain volume of energy. For example, a consumer might offer to buy 4 units of energy at $15 per unit.  
 
 **Bid Comparison:**  
-The auctioneer compares the bids from sellers and buyers to find potential matches.
-The key objective is to find the minimum price a seller is willing to accept and the maximum price a buyer is willing to pay.
+-The auctioneer compares the bids from sellers and buyers to find potential matches.  
+-The key objective is to find the minimum price a seller is willing to accept and the maximum price a buyer is willing to pay.  
 
 **Matching Process:**
-Sellers' bids are sorted in ascending order based on the price.
-Buyers' bids are sorted in descending order based on the price.
-The auctioneer starts by matching the lowest seller bid with the highest buyer bid. If the seller's price is less than or equal to the buyer's price, a trade occurs.
-The volume of energy traded is the minimum of the seller's offered volume and the buyer's requested volume.
+-Sellers' bids are sorted in ascending order based on the price.  
+-Buyers' bids are sorted in descending order based on the price.  
+-The auctioneer starts by matching the lowest seller bid with the highest buyer bid. If the seller's price is less than or equal to the buyer's price, a trade occurs.  
+-The volume of energy traded is the minimum of the seller's offered volume and the buyer's requested volume.  
 
 **Market Clearing Price:**
 The price at which the trade occurs is typically the average of the seller's bid price and the buyer's bid price.
