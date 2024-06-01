@@ -1,6 +1,6 @@
-clc;
 clear;
 close all;
+clc;
 
 % initialize market state
 num_sellers = 3;
