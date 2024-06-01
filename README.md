@@ -70,3 +70,5 @@ Evaluates the profits from selling to or buying from the main grid at a fixed pr
 **Notes**
 Ensure that the initial bid prices and volumes are correctly set for both sellers and buyers.
 The script currently uses fixed prices for selling to and buying from the main grid (p_sell = 26 and p_buy = 10), which can be adjusted as needed.
+**License:**  
+This project is licensed under the _MIT_ License.
