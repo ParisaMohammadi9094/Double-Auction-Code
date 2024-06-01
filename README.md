@@ -54,8 +54,8 @@ In the context of microgrids, where energy is managed locally with a mix of rene
 
 Overall, double auctions provide a robust framework for dynamic pricing and efficient market operations in energy systems.
 
-**Double Auction Simulation in MATLAB**
-**Overview**
+**Double Auction Simulation in MATLAB**  
+**Overview**  
 This MATLAB script simulates a double auction market where multiple sellers and buyers interact. The script determines the volumes and prices at which trades occur based on bids from both parties. It calculates the accepted volumes and prices for both sellers and buyers, as well as the resulting profits.
 
 **Features**
