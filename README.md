@@ -4,9 +4,12 @@
 
 A double auction is a type of auction in which multiple buyers (loads) and multiple sellers (producers) submit bids simultaneously. The market aims to clear by matching these bids to determine the price and volume of trades, ensuring efficient market operations. This mechanism is particularly relevant in energy markets where both energy producers and consumers participate to buy and sell electricity.
 
+![Auction](https://github.com/ParisaMohammadi9094/Double-Auction-Code/assets/18152407/a37ff45f-097b-4bf9-a5d9-6b183a7bd1b0)
+
 ## How Double Auction Works
 
 ### Bids Submission
+
 
 - **Sellers (Producers):** Each seller submits a bid indicating the price at which they are willing to sell a certain volume of energy.
 - **Buyers (Loads):** Each buyer submits a bid indicating the price they are willing to pay for a certain volume of energy.
